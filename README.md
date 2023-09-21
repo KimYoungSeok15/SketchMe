@@ -74,6 +74,14 @@
 ![팀원소개](https://github.com/KimYoungSeok15/SketchMe/assets/122508517/232f7052-1f6f-47b3-906d-861ff4892af7)
 
 # ✨산출물
+
+### 로고
+  ![Frame 324](https://github.com/KimYoungSeok15/SketchMe/assets/122508517/85d47c47-0469-4364-88ce-0f3bc7ea600b)
+
+### ERD
+  ![Untitled (3)](https://github.com/KimYoungSeok15/SketchMe/assets/122508517/2c810049-e360-458b-bea3-bbb3b71abdf2)
+
+### 링크
 <a href="https://www.notion.so/seongchancho/0f2e0b26976d46ad97065bbc6050cd99">
   👉 Notion 바로가기
 </a>
@@ -85,10 +93,3 @@
 <a href="https://www.figma.com/file/sZrtnqgAbUMIzdnZVcgaRa/Wire-Frame?type=design&node-id=0-1&mode=design&t=6Yek3w2HMYcTjzLz-0">
   👉 와이어프레임 바로가기
 </a>
-
-### 로고
-  ![Frame 324](https://github.com/KimYoungSeok15/SketchMe/assets/122508517/85d47c47-0469-4364-88ce-0f3bc7ea600b)
-
-### ERD
-  ![Untitled (3)](https://github.com/KimYoungSeok15/SketchMe/assets/122508517/2c810049-e360-458b-bea3-bbb3b71abdf2)
-
