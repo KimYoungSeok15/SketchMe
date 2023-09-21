@@ -1,16 +1,16 @@
-# 팀명
+# ⭐팀명
 - 코드를 뚜따뚜따
 
-# 개발기간
+# 📆개발기간
 - 23.07.03 ~ 23.08.18 (47일)
 
-# 프로젝트 명
+# ✏프로젝트 명
 - SketchMe
 
-# 프로젝트 설명
+# ⭐️프로젝트 설명
 - 원격 캐리커쳐 서비스
 
-# 기술 스택
+# 🛠기술 스택
 ### front-end
 - node.js
 - React
@@ -29,10 +29,10 @@
 - MariaDB
 
 
-# 아키텍처
+# 💡아키텍처
 ![아키텍처](https://github.com/KimYoungSeok15/SketchMe/assets/122508517/db4a8bcf-4521-47a1-b92f-00c4250432ec)
 
-# UI
+# 🎨UI
 ## 메인페이지 배너
 ![메인배너](https://github.com/KimYoungSeok15/SketchMe/assets/122508517/d1899efa-74df-4c33-93c1-578754760368)
 ![image](https://github.com/KimYoungSeok15/SketchMe/assets/122508517/db9e6612-82d3-4a7c-b353-c28021fd138f)
@@ -69,6 +69,26 @@
 
 ![ezgif com-video-to-gif (1)](https://github.com/KimYoungSeok15/SketchMe/assets/122508517/bf4dd8ba-7b02-4fab-be89-9a5c637162fa)
 
-## 👨‍👩‍👧‍👦팀원 소개
+# 👨‍👩‍👧‍👦팀원 소개
 
 ![팀원소개](https://github.com/KimYoungSeok15/SketchMe/assets/122508517/232f7052-1f6f-47b3-906d-861ff4892af7)
+
+# ✨산출물
+<a href="https://www.notion.so/seongchancho/0f2e0b26976d46ad97065bbc6050cd99">
+  👉 Notion 바로가기
+</a>
+<br>
+<a href="https://www.figma.com/file/UOxQ7ZLQOn7HoPyyYOi0w7/%EB%AA%A9%EC%97%85(%EC%83%88%EB%B2%84%EC%A0%84)?type=design&node-id=0-1&mode=design&t=ZEJkOW0IflqzIPBO-0">
+  👉 목업(Figma) 바로가기
+</a>
+<br>
+<a href="https://www.figma.com/file/sZrtnqgAbUMIzdnZVcgaRa/Wire-Frame?type=design&node-id=0-1&mode=design&t=6Yek3w2HMYcTjzLz-0">
+  👉 와이어프레임 바로가기
+</a>
+
+### 로고
+  ![Frame 324](https://github.com/KimYoungSeok15/SketchMe/assets/122508517/85d47c47-0469-4364-88ce-0f3bc7ea600b)
+
+### ERD
+  ![Untitled (3)](https://github.com/KimYoungSeok15/SketchMe/assets/122508517/2c810049-e360-458b-bea3-bbb3b71abdf2)
+
